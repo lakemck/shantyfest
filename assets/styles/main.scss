@@ -262,6 +262,11 @@ width: 100%;
 
 @media (max-width: 45em){
 
+.mainTitle{
+
+	width: 90%;
+
+}
 
 .mainTitle h1{
 
@@ -276,3 +281,12 @@ width: 100%;
 
 
 }
+
+@media (max-height: 40em){
+  
+
+  .logo{
+	display: none;
+  }
+  
+}    
